@@ -1,0 +1,73 @@
+# Site setings
+name: 'Rare Bird Doula Care'
+description: 'Doula support for families in and around the Ottawa area.'
+meta_description: 'Evidence based doula care for families in and around Ottawa ON'
+logo: 'LogoSquareBlue.svg'
+# Author image is used in site sidebar and greetings in the home page hero text
+author:
+  image:
+  greetings: "Hi! My name is Danielle McEachern, and I provide compassionate, evidence-based doula care to families in & around Ottawa, Ontario."
+favicon:
+baseurl:
+production_url: https://royce.netlify.com/
+disqus:
+mailchimp_url:
+# Add your GA Tracking Id
+ga_analytics:
+
+# Contact form setings
+email: danielle@maisondoula.ca
+contact_page_description: "Get in touch to arrange a complimentary 30-minute consultation."
+thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+
+# Social links
+#twitter:
+#facebook:
+#github:
+#codepen:
+#dribbble:
+#medium:
+#instagram: 'maisondoula'
+#pinterest:
+#linkedin:
+#producthunt:
+#quora:
+
+# Navigation
+navigation:
+  - text: Home
+    url: /
+  - text: About
+    url: /about
+  # - text: FAQs
+  #   url: /faq
+  - text: Services
+    url: /services
+  # - text: Resources
+  #   url: /resources
+  # - text: Kind Words
+  #   url: /kindwords
+  - text: Contact Me
+    url: /contact
+
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
