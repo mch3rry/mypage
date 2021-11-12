@@ -41,8 +41,8 @@ navigation:
     url: /about
   # - text: FAQs
   #   url: /faq
-  - text: Services
-    url: /services
+  # - text: Services
+  #   url: /services
   # - text: Resources
   #   url: /resources
   # - text: Kind Words
