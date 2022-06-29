@@ -56,20 +56,20 @@ title: "Services: Postpartum"
   <div class="column">
     <div class="card">
       <a href="/postpartum">
-        <img src="assets/images/PostPink.svg" width="175" alt="postpartum" />
+        <img src="assets/images/PostPink.svg" width="175" alt="Postpartum" />
         <img src="assets/images/PostPink.svg" width="175" alt="Postpartum" class="img-top" />
       </a>
     </div>
   </div>
 
-    <!-- <div class="column">
-      <div class="card">
-        <a href="chefathome">
-          <img src="assets/images/ChefBlue.svg" width="175" alt="Birth" />
-          <img src="assets/images/ChefPink.svg" width="175" alt="Birth" class="img-top" />
-        </a>
-      </div>
-    </div> -->
+  <div class="column">
+    <div class="card">
+      <a href="abortion">
+        <img src="assets/images/AbortionBlue.svg" width="175" alt="Abortion" />
+        <img src="assets/images/AbortionPink.svg" width="175" alt="Abortion" class="img-top" />
+      </a>
+    </div>
+  </div>
 
 </div>
 </div>
