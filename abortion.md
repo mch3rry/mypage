@@ -89,7 +89,7 @@ title: "Services: Abortion"
   <li>Non-judgemental emotional support</li>
 </ul>
 
-<p>Abortion support is available to everyone at no cost.</p>
+<p><b>Fee:</b> Abortion support is available to everyone at no cost.</p>
 
 </div>
 
