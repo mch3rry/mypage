@@ -79,8 +79,6 @@ title: "Services: Abortion"
 
 <p>It is important to doulas that pregnant people receive compassionate care, no matter how their pregnancy ends. If you are experiencing a spontaneous abortion (miscarriage), or have elected to terminate a pregnancy, you deserve support as your pregnancy releases.</p>
 
-<p>Abortion support is available to everyone at no cost.</p>
-
 <p>Abortion support may include:</p>
 
 <ul>
@@ -90,6 +88,8 @@ title: "Services: Abortion"
   <li>Comfort measures as your pregnancy releases</li>
   <li>Non-judgemental emotional support</li>
 </ul>
+
+<p>Abortion support is available to everyone at no cost.</p>
 
 </div>
 
