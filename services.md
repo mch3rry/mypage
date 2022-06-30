@@ -78,7 +78,9 @@ title: Services
 
 <div>
   
-  <p>I am a doula on the wonderful <a href="https://ottawa.motherwit.ca/">MotherWit</a> team. Reach out for a complementary consultation, or join us on Zoom the first Wednesday of the month for Meet the Doula night.</p>
+  <p>I am a doula on the wonderful <a href="https://ottawa.motherwit.ca/">MotherWit</a> team. We believe that...</p>
+  
+  <p>Reach out for a complementary consultation, or join us on Zoom the first Wednesday of the month at 7PM for Meet the Doula night.</p>
   
   <p><a href="https://us02web.zoom.us/j/82678415366?pwd=K3VueVkwSjIxbzVDY1lJRnEvdWFHdz09&fbclid=IwAR12d1T1haSEX-7YB3xqXgEV8_iBdznj5zssvvN16_IvexSu2iJI-REXIvs">Join Zoom Meeting</a>
   <br>Meeting ID: 826 7841 5366
