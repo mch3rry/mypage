@@ -78,7 +78,7 @@ title: Services
 
 <div>
   
-  <p>I am a doula on the wonderful <a href="https://ottawa.motherwit.ca/">MotherWit</a> team. We believe that...</p>
+  <p>I am a doula on the wonderful <a href="https://ottawa.motherwit.ca/">MotherWit</a> team, and offer birth and postpartum services to all types of families in Ottawa. I also provide abortion support, available to all at no cost.</p>
   
   <p>Reach out for a complementary consultation, or join us for <b>Meet the Doula Night</b> - always the first Wednesday of the month at 7PM, hosted on Zoom.</p>
   
