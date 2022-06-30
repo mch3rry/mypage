@@ -75,6 +75,15 @@ title: Services
 </div>
 </div>
 
-<hr>
 
-<p><i>I am dedicated to accessible doula care for everyone. If you would benefit from sliding scale fees, please contact me.</i></p>
+<div>
+  
+  <p>I am a doula on the wonderful <a href="https://ottawa.motherwit.ca/">MotherWit</a> team. Reach out for a complementary consultation, or join us on Zoom the first Wednesday of the month for Meet the Doula night.</p>
+  
+  <p><a href="https://us02web.zoom.us/j/82678415366?pwd=K3VueVkwSjIxbzVDY1lJRnEvdWFHdz09&fbclid=IwAR12d1T1haSEX-7YB3xqXgEV8_iBdznj5zssvvN16_IvexSu2iJI-REXIvs">Join Zoom Meeting</a></p>
+  <p>Meeting ID: 826 7841 5366</p>
+  <p>Passcode: 543093d</p>
+  
+</div>
+
+<img src=""></img>
