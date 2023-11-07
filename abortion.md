@@ -77,7 +77,7 @@ title: "Services: Abortion"
 
 <div>
 
-<p>It is important to doulas that pregnant people receive compassionate care, no matter how their pregnancy ends. If you are experiencing a spontaneous abortion (miscarriage), or have elected to terminate a pregnancy, you deserve support as your pregnancy releases.</p>
+<p>Doulas know that not all pregnancies end with the birth of a child. If you are experiencing a spontaneous abortion (miscarriage), or have elected to terminate a pregnancy, you deserve support as your pregnancy releases.</p>
 
 <p>Abortion support may include:</p>
 
