@@ -6,7 +6,8 @@ logo: 'BScLogoWeb.svg'
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image:
-  greetings: "Hi! My name is Danielle McEachern, and I provide compassionate, evidence-based doula care to families in & around Ottawa, Ontario."
+  greetings: "Welcome to Birth Science, where we are passionate about providing compassionate, evidence-based doula care and education to all types of families in and around Ottawa, Ontario.
+"
 favicon:
 baseurl:
 production_url: https://royce.netlify.com/
@@ -16,7 +17,7 @@ mailchimp_url:
 ga_analytics:
 
 # Contact form setings
-email: danielle@rarebirddoula.ca
+email: danielle.mceachern@gmail.com
 contact_page_description: "Get in touch to arrange a complimentary consultation, and learn how compassionate doula support can uplift your birth and postpartum experience."
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
@@ -45,7 +46,7 @@ navigation:
     url: /services
   # - text: Resources
   #   url: /resources
-  - text: Kind Words
+  - text: Testimonials
     url: /kindwords
   - text: Contact Me
     url: /contact
