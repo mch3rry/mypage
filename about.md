@@ -42,7 +42,7 @@ title: Meet Danielle
   <div class="column">
   <div class="center">
     <figure>
-      <img src="assets/images/Face.svg" width="225" alt="Face.">
+      <img src="assets/images/Face.svg" width="225" alt="Danielle's face, she has medium-length brown hair, blue eyes and glasses, and is smiling wide.">
     </figure>
   </div>
   </div>
@@ -55,11 +55,11 @@ title: Meet Danielle
 <p>Before I trained as a doula, I studied neurobiology for ten years. From my time as a scientist I bring curiosity, critical thinking, and a love of research rabbit holes. I am fascinated by all aspects of birth, from the biological mysteries to the diversity of global birth practices. I strive to understand the history that shapes modern birth culture, and to be informed on the best evidence-based practices in perinatal care.</p>
 
 <br>
-**Trainings & Education**
+<p>**Trainings & Education**
 * MotherWit Birth Doula Training
 * MotherWit Postpartum Doula Training
 * Holistic Doula Program, Paciific Rim College
-* BSc Neuroscience, McGill
+* BSc Neuroscience, McGill</p>
 
 <br>
 **Continued Learning**
@@ -80,5 +80,4 @@ title: Meet Danielle
 
 <figure>
   <img src="assets/images/bady-abbas-uZoR8U2hyiw-unsplash.jpg" />
-  <figcaption style="text-align:center;font-size:75%;">bady abbas on Unsplash</figcaption>
 </figure>
