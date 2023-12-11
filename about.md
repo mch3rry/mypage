@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ottawa Birth Science - Meet Danielle
+title: Meet Danielle
 ---
 <style>
 
