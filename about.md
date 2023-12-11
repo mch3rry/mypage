@@ -63,7 +63,7 @@ title: Meet Danielle
 
 <br>
 **Continued Learning**
-* Re
+* Use of Mexican Rebozo in Perinatal Care, Collective Rebozo
 * Spinning Babies Workshop
 * CPR for Doulas, Safe Beginnings First Aid
 * Supporting Neonatal Resuscitation, Safe Beginnings First Aid
