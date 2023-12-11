@@ -1,7 +1,7 @@
 # Site setings
-name: 'Rare Bird Doula Care'
+name: 'Ottawa Birth Science'
 description: 'Doula support for families in and around the Ottawa area.'
-meta_description: 'Evidence based doula care for families in and around Ottawa ON'
+meta_description: 'Evidence-based doula care for families in and around Ottawa ON'
 logo: 'LogoSquareBlue.svg'
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
@@ -17,7 +17,7 @@ ga_analytics:
 
 # Contact form setings
 email: danielle@rarebirddoula.ca
-contact_page_description: "Get in touch to arrange a complimentary 30-minute consultation."
+contact_page_description: "Get in touch to arrange a complimentary consultation, and learn how compassionate doula support can uplift your birth and postpartum experience."
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
@@ -27,7 +27,7 @@ thankyou_page_description: "Your message has been successfully sent. We will con
 #codepen:
 #dribbble:
 #medium:
-#instagram: 'maisondoula'
+instagram: 'birth.science'
 #pinterest:
 #linkedin:
 #producthunt:
@@ -41,12 +41,12 @@ navigation:
     url: /about
   # - text: FAQs
   #   url: /faq
-  # - text: Services
-  #   url: /services
+  - text: Services
+    url: /services
   # - text: Resources
   #   url: /resources
-  # - text: Kind Words
-  #   url: /kindwords
+  - text: Kind Words
+    url: /kindwords
   - text: Contact Me
     url: /contact
 
