@@ -65,6 +65,7 @@ title: Meet Danielle
 **Continued Learning**
 * Use of Mexican Rebozo in Perinatal Care, Collective Rebozo
 * Spinning Babies Workshop
+* Breastfeeding Essentials, Step 2 Education
 * CPR for Doulas, Safe Beginnings First Aid
 * Supporting Neonatal Resuscitation, Safe Beginnings First Aid
 * Abortion and miscarriage for doulas, Jessica Austin
