@@ -55,11 +55,25 @@ title: Meet Danielle
 <p>Before I trained as a doula, I studied neurobiology for ten years. From my time as a scientist I bring curiosity, critical thinking, and a love of research rabbit holes. I am fascinated by all aspects of birth, from the biological mysteries to the diversity of global birth practices. I strive to understand the history that shapes modern birth culture, and to be informed on the best evidence-based practices in perinatal care.</p>
 
 <br>
-<p>**Trainings & Education**
+**Trainings & Education**
 * MotherWit Birth Doula Training
 * MotherWit Postpartum Doula Training
 * Holistic Doula Program, Paciific Rim College
-* BSc Neuroscience, McGill</p>
+* BSc Neuroscience, McGill
+
+ <p><b>Trainings & Education</b></p>
+      <ul>
+        <li>MotherWit Postpartum Doula Training (2020)</li>
+        <li>Holistic Doula Program, Pacific Rim College (2019)</li>
+        <li>BSc Neuroscience, McGill (2011)</li>
+      </ul>
+
+ <p><b>Trainings & Education</b>
+      <ul>
+        <li>MotherWit Postpartum Doula Training (2020)</li>
+        <li>Holistic Doula Program, Pacific Rim College (2019)</li>
+        <li>BSc Neuroscience, McGill (2011)</li>
+      </ul></p>
 
 <br>
 **Continued Learning**
