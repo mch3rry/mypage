@@ -28,6 +28,31 @@ title: Meet Danielle
         }
       }
 
+
+  .jumbotronjr {
+  padding: 12px;
+  margin-bottom: -16px;
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 2.1428571435;
+  color: inherit;
+  background-color: white;
+}
+.titletext {
+  font-size: 2.8em;
+  color: darkgreen;
+  font-family: Candara, Calibri, Cambria, serif;
+  margin-left: -32px;
+  display:block;
+}
+.titletextjr {
+  font-size: 1.4em;
+  color: darkgreen;
+  font-family: Candara, Calibri, Cambria, serif;
+  margin-left: -32px;
+  display:block;
+}
+  
 </style>
 
 <div class="row">
@@ -53,6 +78,15 @@ title: Meet Danielle
 <p>I believe in the physiology of birth - that you, your body, and your baby instinctively know how to birth - and that you are the expert on your care. My goal is to help you feel educated about childbirth and all of your options, and confident and supported in your choices. I aim to create a safe and comfortable space for you to thrive in your birth and journey into new parenthood.</p>
 
 <p>Before I trained as a doula, I studied neurobiology for ten years. From my time as a scientist I bring curiosity, critical thinking, and a love of research rabbit holes. I am fascinated by all aspects of birth, from the biological mysteries to the diversity of global birth practices. I strive to understand the history that shapes modern birth culture, and to be informed on the best evidence-based practices in perinatal care.</p>
+
+<br>
+
+<div class="container body-content">
+  <div class="jumbotronjr">
+    <label class="titletext" style="margin-top: 0.1cm;">eServices Reporting</label>
+    <label class="titletextjr" style="margin-top: -2cm;">Purchasing Report for RB Kitchen</label>
+  </div>
+</div>
 
 <br>
 **Trainings & Education**
