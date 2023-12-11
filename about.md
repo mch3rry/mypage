@@ -54,35 +54,22 @@ title: Meet Danielle
 
 <p>Before I trained as a doula, I studied neurobiology for ten years. From my time as a scientist I bring curiosity, critical thinking, and a love of research rabbit holes. I am fascinated by all aspects of birth, from the biological mysteries to the diversity of global birth practices. I strive to understand the history that shapes modern birth culture, and to be informed on the best evidence-based practices in perinatal care.</p>
 
+<br>
+**Trainings & Education**
+* MotherWit Birth Doula Training
+* MotherWit Postpartum Doula Training
+* Holistic Doula Program, Paciific Rim College
+* BSc Neuroscience, McGill
 
+<br>
+**Continued Learning**
+* Re
+* Spinning Babies Workshop
+* CPR for Doulas, Safe Beginnings First Aid
+* Supporting Neonatal Resuscitation, Safe Beginnings First Aid
+* Abortion and miscarriage for doulas, Jessica Austin
+* How to help families get evidence based, Evidence Based Birth
 
-<div class="row">
-  <div class="column">
-  <div class="center">
-    <figure>
-      <img src="assets/images/geronimo.jpg" width="300" alt="Hummingbird.">
-      <figcaption style="font-size:75%;">Geronimo Giqueaux on Unsplash</figcaption>
-    </figure>
-  </div>
-  </div>
-  <div class="column">
-    <p><b>Trainings & Education</b></p>
-      <ul>
-        <li>MotherWit Postpartum Doula Training (2020)</li>
-        <li>Holistic Doula Program, Pacific Rim College (2019)</li>
-        <li>BSc Neuroscience, McGill (2011)</li>
-      </ul>
-    <p><b>Continued Learning</b></p>
-      <ul>
-        <li>CPR for Doulas, Safe Beginnings (2021)</li>
-        <li>Supporting Neonatal Resuscitation, Safe Beginnings (2021)</li>
-        <li>Abortion and miscarriage for doulas, Jessica Austin (2021)</li>
-        <li>How to help families get evidence based care, Evidence Based Birth (2020)</li>
-        </ul>
-
-
-  </div>
-</div>
 <br>
 **Community Work**
 * Board of directors, Doula Services Association of BC (2021-22)
