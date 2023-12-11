@@ -62,9 +62,9 @@ title: Meet Danielle
 * BSc Neuroscience, McGill
 
 <label><b>Trainings & Education</b></label>
-        <ul><li>MotherWit Postpartum Doula Training (2020)</li>
+        <p><ul><li>MotherWit Postpartum Doula Training (2020)</li>
         <li>Holistic Doula Program, Pacific Rim College (2019)</li>
-        <li>BSc Neuroscience, McGill (2011)</li></ul>
+        <li>BSc Neuroscience, McGill (2011)</li></ul></p>
 
 <br>
 **Continued Learning**
