@@ -77,8 +77,6 @@ title: Meet Danielle
 * Postpartum volunteer, Vancouver Coastal Health’s CUDDLE program (2019)
 * Big Sister, Big Sisters of the Lower Mainland (2014 - 2017)
 
-<br>
-
 <p><i>P.S. I also built this website myself!</i></p>
 
 <figure>
