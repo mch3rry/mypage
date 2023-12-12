@@ -9,7 +9,7 @@ title: FAQs
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .collapsible {
-  background-color: #B28AAE;
+  background-color: #0097b2;
   color: white;
   cursor: pointer;
   padding: 18px;
