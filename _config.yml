@@ -48,10 +48,10 @@ navigation:
     url: /education
   - text: Abortion
     url: /abortion
-  # - text: FAQs
-  #   url: /faq
-  # - text: Resources
-  #   url: /resources
+  - text: FAQs
+    url: /faq
+  - text: Resources
+    url: /resources
   - text: Testimonials
     url: /testimonials
   - text: Contact Me
