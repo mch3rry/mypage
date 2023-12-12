@@ -44,16 +44,16 @@ navigation:
     url: /birth
   - text: Postpartum
     url: /postpartum
-  - text: Prenatal Education
-    url: /education
+#  - text: Prenatal Education
+#    url: /education
   - text: Abortion
     url: /abortion
-  - text: FAQs
-    url: /FAQ
-  - text: Resources
-    url: /resources
-  - text: Testimonials
-    url: /testimonials
+#  - text: FAQs
+#    url: /FAQ
+#  - text: Resources
+#    url: /resources
+#  - text: Testimonials
+#    url: /testimonials
   - text: Contact Me
     url: /contact
 
