@@ -20,7 +20,6 @@ title: "Postpartum Support"
 <br>Daytime: $40/hour + GST (8AM-8PM, 3 hour minimum)
 <br>Overnight: $37.50/hour + GST (8PM-8AM, 8 hour minimum)
 
-<hr style="height:1px;border-width:0;color:#ffb901;background-color:#ffb901">
 
 <p><i>I am dedicated to accessible doula care for everyone. If you would benefit from sliding scale fees, please contact me.</i></p>
 
