@@ -6,7 +6,7 @@ title: Testimonials
 
 blockquote
 {
-  font-size: 16px;
+  font-size: 20px;
 }
   
 </style>
