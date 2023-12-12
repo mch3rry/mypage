@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Abortion"
+title: "Birth Science Ottawa - Abortion Support"
 ---
 <p> </p>
 <p>Doulas know that not all pregnancies end with the birth of a child. If you are experiencing a spontaneous abortion (miscarriage), or have elected to terminate a pregnancy, you deserve support as your pregnancy releases.</p>
