@@ -20,6 +20,10 @@ title: "Birth Support"
 
 <p><b>Fee:</b> $1400 + GST</p>
 
+<p><i>I am dedicated to accessible doula care for everyone. If you would benefit from sliding scale fees, please contact me.</i></p>
+
 <hr style="height:1px;border-width:0;color:#ffb901;background-color:#ffb901">
 
-<p><i>I am dedicated to accessible doula care for everyone. If you would benefit from sliding scale fees, please contact me.</i></p>
+<p><i>Uplift your perinatal experience with professional, evidence-based doula support from Birth Science Ottawa. We attend births at home, at birth centres, and at all the hospitals in the greater Ottawa area (Civic, Ottawa General, Montfort, Queensway-Carleton, Gatineau, Almonte, Winchester).</i></p>
+
+<p><i>Birth Science - Empowering Every Birth, Embracing Every Family</i></p>
