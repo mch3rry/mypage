@@ -19,8 +19,8 @@ title: Services
 }
 
 .card {
-    width: 100px;
-    height: 195px;
+    width: 175px;
+    height: 100px;
     position: relative;
     display: inline-block;
 }
