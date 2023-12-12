@@ -52,8 +52,8 @@ navigation:
 #    url: /FAQ
 #  - text: Resources
 #    url: /resources
-#  - text: Testimonials
-#    url: /testimonials
+  - text: Testimonials
+    url: /testimonials
   - text: Contact Me
     url: /contact
 
