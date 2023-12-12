@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Kind Words
+title: Testimonials
 ---
