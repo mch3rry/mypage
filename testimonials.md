@@ -25,7 +25,7 @@ blockquote
   <footer>—Laura & Donny</footer>
 </blockquote>
 
-<p><i>Testimonials from my <a href="https://doulamatch.net/profile/26409/danielle-mceachern">Doula Match</a> page</i></p>
+<p align="centre"><i>Testimonials from my <a href="https://doulamatch.net/profile/26409/danielle-mceachern">Doula Match</a> page</i></p>
 
 <figure>
   <img src="assets/images/unsplash-testimonials.jpg" />
