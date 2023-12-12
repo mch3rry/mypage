@@ -48,7 +48,7 @@ title: Services
     <div class="card">
       <a href="/birth">
         <img src="assets/images/BirthBlue.svg" width="175" alt="Birth" />
-        <img src="assets/images/BirthPink.svg" width="175" alt="Birth" class="img-top" />
+        <img src="assets/images/BirthYellow.svg" width="175" alt="Birth" class="img-top" />
       </a>
     </div>
   </div>
@@ -56,18 +56,26 @@ title: Services
   <div class="column">
     <div class="card">
       <a href="/postpartum">
-        <img src="assets/images/PostBlue.svg" width="175" alt="Postpartum" />
-        <img src="assets/images/PostPink.svg" width="175" alt="Postpartum" class="img-top" />
+        <img src="assets/images/PPBlue.svg" width="175" alt="Postpartum" />
+        <img src="assets/images/PPYellow.svg" width="175" alt="Postpartum" class="img-top" />
       </a>
     </div>
   </div>
-
 
   <div class="column">
     <div class="card">
       <a href="/abortion">
         <img src="assets/images/AbortionBlue.svg" width="175" alt="Abortion" />
-        <img src="assets/images/AbortionPink.svg" width="175" alt="Abortion" class="img-top" />
+        <img src="assets/images/AbortionYellow.svg" width="175" alt="Abortion" class="img-top" />
+      </a>
+    </div>
+  </div>
+
+    <div class="column">
+    <div class="card">
+      <a href="/education">
+        <img src="assets/images/PrenatalBlue.svg" width="175" alt="Abortion" />
+        <img src="assets/images/PrenatalYellow.svg" width="175" alt="Abortion" class="img-top" />
       </a>
     </div>
   </div>
