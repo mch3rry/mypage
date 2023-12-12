@@ -40,10 +40,16 @@ navigation:
     url: /
   - text: About
     url: /about
+  - text: Birth
+    url: /birth
+  - text: Postpartum
+    url: /postpartum
+  - text: Prenatal Education
+    url: /education
+  - text: Abortion
+    url: /abortion
   # - text: FAQs
   #   url: /faq
-  - text: Services
-    url: /services
   # - text: Resources
   #   url: /resources
   - text: Testimonials
