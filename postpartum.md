@@ -1,78 +1,7 @@
 ---
 layout: page
-title: "Services: Postpartum"
+title: "Postpartum Support"
 ---
-<style>
-
-/* Create three equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 25%;
-  padding: 5px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.card {
-    width: 175px;
-    height: 195px;
-    position: relative;
-    display: inline-block;
-}
-.card .img-top {
-    display: none;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 99;
-}
-.card:hover .img-top {
-    display: inline;
-}
-
-.center {
-        text-align: center;
-      }
-
-</style>
-
-<div class="row">
-<div class="center">
-
-  <div class="column">
-    <div class="card">
-      <a href="/birth">
-        <img src="assets/images/BirthBlue.svg" width="175" alt="Birth" />
-        <img src="assets/images/BirthPink.svg" width="175" alt="Birth" class="img-top" />
-      </a>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <a href="/postpartum">
-        <img src="assets/images/PostPink.svg" width="175" alt="Postpartum" />
-        <img src="assets/images/PostPink.svg" width="175" alt="Postpartum" class="img-top" />
-      </a>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <a href="abortion">
-        <img src="assets/images/AbortionBlue.svg" width="175" alt="Abortion" />
-        <img src="assets/images/AbortionPink.svg" width="175" alt="Abortion" class="img-top" />
-      </a>
-    </div>
-  </div>
-
-</div>
-</div>
 
 <p>Ease your transition into parenthood with professional, personalized support...</p>
 
@@ -88,9 +17,8 @@ title: "Services: Postpartum"
 
 <p><b>Fees:</b>
 
-<br>Daytime: $30/hour + GST (8AM-8PM, 4 hour minimum)
-<br>Overnight: $35/hour + GST (8PM-8AM, 8 hour minimum)
-<br>20-hour daytime package: $840 + GST</p>
+<br>Daytime: $40/hour + GST (8AM-8PM, 3 hour minimum)
+<br>Overnight: $37.50/hour + GST (8PM-8AM, 8 hour minimum)
 
 <hr>
 
