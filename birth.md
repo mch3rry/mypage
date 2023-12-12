@@ -1,8 +1,14 @@
 ---
-layout: default
+layout: page
 title: "Birth Science Ottawa - Birth Support"
 ---
-<p>layout: default </p>
+
+<header class="post-header">
+      <h1 class="post-title">Birth Support</h1>
+</header>
+
+<p> </p>  
+
 <p><b>Comprehensive Birth Doula Care</b> for you and your family includes:</p>
 
 <ul>
