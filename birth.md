@@ -2,7 +2,7 @@
 layout: default
 title: "Birth Science Ottawa - Birth Support"
 ---
-<p> </p>
+<p>layout: default </p>
 <p><b>Comprehensive Birth Doula Care</b> for you and your family includes:</p>
 
 <ul>
