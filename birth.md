@@ -20,8 +20,6 @@ title: "Birth Support"
 
 <p><b>Fee:</b> $1400 + GST</p>
 
-</div>
-
 <hr>
 
 <p><i>I am dedicated to accessible doula care for everyone. If you would benefit from sliding scale fees, please contact me.</i></p>
