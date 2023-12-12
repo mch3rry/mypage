@@ -19,7 +19,7 @@ title: "Birth Support"
   <li>A reliable and similarly practicing back-up doula</li>
 </ul>
 
-<p><b>Fee:</b> $1400 + GST</p>
+<p><b>Fee:</b> $1400 + HST</p>
 
 <p><i>I am dedicated to accessible doula care for everyone. If you would benefit from sliding scale fees, please contact me.</i></p>
 
