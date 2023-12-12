@@ -71,7 +71,7 @@ title: Services
     </div>
   </div>
 
-    <div class="column">
+  <div class="column">
     <div class="card">
       <a href="/education">
         <img src="assets/images/PrenatalBlue.svg" width="175" alt="Abortion" />
