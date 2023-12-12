@@ -2,6 +2,7 @@
 layout: page
 title: "Birth Support"
 ---
+<p> </p>
 <p><b>Comprehensive Birth Doula Care</b> for you and your family includes:</p>
 
 <ul>
