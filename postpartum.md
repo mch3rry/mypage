@@ -10,7 +10,7 @@ title: "Postpartum Support"
 <li>Emotional support as you transition into parenthood;</li>
 <li>Comfort measures for the recovering postpartum body;</li>
 <li>Guidance on infant care and behaviour, including feeding, soothing and sleep;</li>
-<li>Sibling support;</li>
+<li>Sibling support (including on-call childcare while you are birthing another child);</li>
 <li>Meal preparation;</li>
 <li>Light housework and baby’s laundry;</li>
 <li>Referrals to other community resources and care providers.</li></ul>
