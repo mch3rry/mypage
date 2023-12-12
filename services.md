@@ -19,7 +19,7 @@ title: Services
 }
 
 .card {
-    width: 145px;
+    width: 175px;
     height: 100px;
     position: relative;
     display: inline-block;
@@ -85,14 +85,6 @@ title: Services
 
 
 <div>
-  
-  <p>I am a doula on the wonderful <a href="https://ottawa.motherwit.ca/">MotherWit</a> team, and offer birth and postpartum services to all types of families in Ottawa. I also provide abortion support, available to all at no cost.</p>
-  
-  <p>Reach out for a complementary consultation, or join us for <b>Meet the Doula Night</b> - always the first Wednesday of the month at 7PM, hosted on Zoom.</p>
-  
-  <p><a href="https://us02web.zoom.us/j/82678415366?pwd=K3VueVkwSjIxbzVDY1lJRnEvdWFHdz09&fbclid=IwAR12d1T1haSEX-7YB3xqXgEV8_iBdznj5zssvvN16_IvexSu2iJI-REXIvs">Join Zoom Meeting</a>
-  <br>Meeting ID: 826 7841 5366
-  <br>Passcode: 543093d</p>
   
 </div>
 
