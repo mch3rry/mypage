@@ -17,6 +17,10 @@ title: "Abortion"
 
 <p><b>Fee:</b> Abortion support is available to everyone at no cost.</p>
 
+<figure>
+  <img src="assets/images/unsplash-abortion.jpg" />
+</figure>
+
 <hr style="height:1px;border-width:0;color:#ffb901;background-color:#ffb901">
 
 <footer>
