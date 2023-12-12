@@ -79,6 +79,8 @@ title: Meet Danielle
 
 <br>
 
+<p><i>P.S. I also built this website myself!</i></p>
+
 <figure>
   <img src="assets/images/bady-abbas-uZoR8U2hyiw-unsplash.jpg" />
 </figure>
