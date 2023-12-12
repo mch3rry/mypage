@@ -2,7 +2,7 @@
 layout: page
 title: "Abortion"
 ---
-
+<p> </p>
 <p>Doulas know that not all pregnancies end with the birth of a child. If you are experiencing a spontaneous abortion (miscarriage), or have elected to terminate a pregnancy, you deserve support as your pregnancy releases.</p>
 
 <p>Abortion support may include:</p>
@@ -17,8 +17,8 @@ title: "Abortion"
 
 <p><b>Fee:</b> Abortion support is available to everyone at no cost.</p>
 
-</div>
+<hr style="height:1px;border-width:0;color:#ffb901;background-color:#ffb901">
 
-<hr>
+<p><i>Uplift your perinatal experience with professional, evidence-based doula support from Birth Science Ottawa. We attend births at home, at birth centres, and at all the hospitals in the greater Ottawa area (Civic, Ottawa General, Montfort, Queensway-Carleton, Gatineau, Almonte, Winchester).</i></p>
 
-<p><i>I am dedicated to accessible doula care for everyone. If you would benefit from sliding scale fees, please contact me.</i></p>
+<p><i>Birth Science - Empowering Every Birth, Embracing Every Family</i></p>
