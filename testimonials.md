@@ -10,7 +10,7 @@ title: Testimonials
 
 <blockquote cite="https://doulamatch.net/testimonial/detail/72342">
   <p>Danielle was extremely supportive and helpful before, during and after the birth of my daughter. She was there for us emotionally, mentally, and physically (when she had to hold my leg!). I gave birth in a hospital in the middle of the Covid19 pandemic, a very stressful time, but Danielle helped to reassure us that we were in a safe space and calm any nerves. The birth happened very fast so we were not able to give her much notice, but she showed up at the hospital right away and was ready to support in every way. Danielle also checked in with us after the birth, coming to our home to offer support and guidance.</p>
-  <footer>—Daryl &</footer>
+  <footer>—Daryl & Tolga</footer>
 </blockquote>
 
 <blockquote cite="https://doulamatch.net/testimonial/detail/64975">
