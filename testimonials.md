@@ -3,6 +3,9 @@ layout: page
 title: Testimonials
 ---
 
+<figure>
+  <img src="assets/images/unsplash-testimonials.jpg" />
+</figure>
 
 <hr style="height:1px;border-width:0;color:#ffb901;background-color:#ffb901">
 
