@@ -15,7 +15,7 @@ title: "Abortion"
   <li>Non-judgemental emotional support</li>
 </ul>
 
-<p><b>Fee:</b> Abortion support is available to everyone at no cost.</p>
+<p><b>Fee:</b> Abortion support is available to everyone on a pay-what-you-can basis.</p>
 
 <figure>
   <img src="assets/images/unsplash-abortion.jpg" />
