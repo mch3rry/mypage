@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Birth Science Ottawa - Meet Danielle"
+title: "Meet Danielle"
 ---
 <style>
 
