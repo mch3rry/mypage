@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Birth Science Ottawa - Birth Support"
 ---
 <p> </p>
