@@ -10,8 +10,13 @@ blockquote
 }
   
 </style>
+<blockquote>
+  <p>Working with Danielle was a great experience! The two sessions prior to the birth were a gold mine of information for us first time parents. Having her on our team at the hospital was very reassuring and helpful. I'd recommend her services to anyone having a baby!</p>
+  <footer>—Amanda & Julien</footer>
+</blockquote>
+
 <blockquote cite="https://doulamatch.net/testimonial/detail/88761">
-  <p>We had a great experience with Danielle! She supported us from after our son's birth until he was about 8 weeks old. One of the highlights for us was Danielle's flexibility. Originally we had assumed she would be doing lots of baby holding as our first child was an extremely fussy infant, never wanting to be put down. As it turns our, our son was a very calm, very sleep baby. So Danielle was incredibly flexible and supportive providing not only care for our infant son, but also taking care of our toddler when needed (playing with her, feeding her, etc.), doing light housework, cooking our meals, cleaning baby bottles and providing emotional support especially around feeding. We would absolutely recommend her for supprot postpartum!</p>
+  <p>We had a great experience with Danielle! She supported us from after our son's birth until he was about 8 weeks old. One of the highlights for us was Danielle's flexibility. Originally we had assumed she would be doing lots of baby holding as our first child was an extremely fussy infant, never wanting to be put down. As it turns our, our son was a very calm, very sleepy baby. So Danielle was incredibly flexible and supportive providing not only care for our infant son, but also taking care of our toddler when needed (playing with her, feeding her, etc.), doing light housework, cooking our meals, cleaning baby bottles and providing emotional support especially around feeding. We would absolutely recommend her for support postpartum!</p>
   <footer>—Tegan & Hugues</footer>
 </blockquote>
 
