@@ -30,7 +30,7 @@ blockquote
   <footer>—Laura & Donny</footer>
 </blockquote>
 
-<p align="center"><i>Testimonials from my <a href="https://doulamatch.net/profile/26409/danielle-mceachern">Doula Match</a> page, and MotherWit Ottawa's <a href="https://maps.app.goo.gl/T9B1wTcMvrJGCKGv8">Google</a> reviews.</i></p>
+<p align="center"><i>Testimonials from my <a href="https://doulamatch.net/profile/26409/danielle-mceachern" target="_blank">Doula Match</a> page, and MotherWit Ottawa's <a href="https://maps.app.goo.gl/T9B1wTcMvrJGCKGv8" target="_blank">Google</a> reviews.</i></p>
 
 <figure>
   <img src="assets/images/unsplash-testimonials.jpg" />
