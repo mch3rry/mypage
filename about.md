@@ -16,6 +16,9 @@ title: "Meet Danielle McEachern"
   content: "";
   display: table;
   clear: both;
+
+.footer {
+    max-width: 1080px;
 }
 
 .center {
@@ -85,10 +88,7 @@ title: "Meet Danielle McEachern"
 
 <hr style="height:1px;border-width:0;color:#ffb901;background-color:#ffb901">
 
-<footer class="inner-wide">
-
-<p>class="inner-wide"</p>
-
+<footer>
 <p>Uplift your perinatal experience with professional, evidence-based doula support from Birth Science Ottawa. We support families in the greater Ottawa and Gatineau area, and attend births at home, at birth centres, and at all the hospitals in the greater Ottawa area (Civic, Ottawa General, Montfort, Queensway-Carleton, Gatineau, Almonte, Winchester).</p>
 
 <p>Birth Science Ottawa is dedicated to providing inclusive care that respects the diverse cultural and religious backgrounds of all families, and embraces diversity in gender, sexual orientation, and family structures.</p>
