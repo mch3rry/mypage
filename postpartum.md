@@ -11,7 +11,7 @@ title: "Postpartum Support"
 <li>Guidance on infant care and behaviour, including feeding, soothing and sleep;</li>
 <li>Sibling support (including on-call childcare while you are birthing another child);</li>
 <li>Meal preparation;</li>
-<li>Light housework and baby’s laundry;</li>
+<li>Light housework and laundry;</li>
 <li>Referrals to other community resources and care providers.</li></ul>
 
 <p><b>Fees:</b>
