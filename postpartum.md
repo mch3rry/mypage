@@ -22,5 +22,5 @@ title: "Postpartum Support"
 <p><i>I am dedicated to accessible doula care for everyone. If you would benefit from sliding scale fees, please contact me.</i></p>
 
 <figure>
-  <img src="assets/images/unsplash-pp2.jpg" />
+  <img src="assets/images/unsplash-pp.jpg" />
 </figure>
