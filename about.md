@@ -95,3 +95,11 @@ title: "Meet Danielle McEachern"
 
 <p>Birth Science Ottawa operates on the traditional and unceded territory of the Anishinabe Algonquin Nation. We express gratitude for the opportunity to live, work, learn, and play on these ancestral lands, acknowledging the enduring connection the Algonquin Nation has fostered since time immemorial.</p>
 </footer>
+
+<div class="inner-wide">
+ 
+  <hr style="height:1px;border-width:0;color:#ffb901;background-color:#ffb901">
+ 
+  <p>Uplift your perinatal experience with professional, evidence-based doula support from Birth Science Ottawa. We support families in greater Ottawa/Gatineau, and attend births at home, at birth centres, and at all the hospitals in area (Civic, Ottawa General, Montfort, Queensway-Carleton, Gatineau, Almonte, Winchester).</p>
+
+</div>
