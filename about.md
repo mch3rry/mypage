@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Meet Danielle"
+title: "Meet Danielle McEachern"
 ---
 <style>
 
