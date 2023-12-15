@@ -11,7 +11,7 @@ layout: default
         {% if page.featured_image %}
         <div class="post-thumbnail"><img src="{{ site.baseurl }}{{ page.featured_image }}" alt="{% if page.featured_image_alt %}{{ page.featured_image_alt }}{% else %}{{ page.title }}{% endif %}" /></div>
         {% endif %}
-        <div class="post-content inner-wide">
+        <div class="post-content inner">
             {{content}}
         </div>
     </article>
