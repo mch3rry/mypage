@@ -10,7 +10,7 @@ author:
 "
 favicon:
 baseurl:
-production_url: https://royce.netlify.com/
+production_url: https://birthscience.ca/
 disqus:
 mailchimp_url:
 # Add your GA Tracking Id
@@ -24,7 +24,6 @@ thankyou_page_description: "Your message has been successfully sent. We will con
 # Social links
 #twitter:
 #facebook:
-#github:
 #codepen:
 #dribbble:
 #medium:
