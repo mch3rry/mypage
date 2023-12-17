@@ -54,7 +54,7 @@ navigation:
 #    url: /resources
   - text: Testimonials
     url: /testimonials
-  - text: Contact Me
+  - text: Contact
     url: /contact
 
 # Required Plugins
