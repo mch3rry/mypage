@@ -12,7 +12,9 @@ title: "Postpartum Support"
 <li>Sibling support (including on-call childcare while you are birthing another child)</li>
 <li>Meal preparation</li>
 <li>Light housework and laundry</li>
-<li>Referrals to other community resources and care providers</li></ul>
+<li>Referrals to other community resources and care providers</li>
+<li>When hired before your baby arrives, a prenatal meeting at about 37 weeks to meet you and your family, get to know your home and needs, and provide education on the postpartum period.</li></ul>
+
 
 <p><b>Fees:</b>
 
