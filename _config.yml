@@ -19,7 +19,7 @@ ga_analytics:
 # Contact form setings
 email: hello@birthscience.ca
 contact_page_description: "Get in touch to arrange a complimentary consultation with Danielle McEachern, and learn how compassionate doula support can uplift your birth and postpartum experience."
-thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+thankyou_page_description: "Your message has been successfully sent. We will contact you very soon! (Our emails are sometimes marked as spam, so please check your junk folder.)"
 
 # Social links
 #twitter:
