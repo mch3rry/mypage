@@ -41,7 +41,7 @@ title: "Meet Danielle McEachern"
   <div class="column">
   <div class="center">
     <figure>
-      <img src="assets/images/Face.svg" width="225" alt="Danielle's face, she has medium-length brown hair, blue eyes and glasses, and is smiling wide.">
+      <img src="assets/images/Face.png" width="225" alt="Danielle's face, she has medium-length brown hair, blue eyes and glasses, and is smiling wide.">
     </figure>
   </div>
   </div>
