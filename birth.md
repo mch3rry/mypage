@@ -21,7 +21,7 @@ title: "Birth Support"
 
 <p><b>Fee:</b> $1400 + HST</p>
 
-<p><i>I am dedicated to accessible doula care for everyone. If you would benefit from sliding scale fees, please contact me.</i></p>
+<p><i>I am dedicated to <a href="https://birthscience.ca/accessibility">accessible doula care</a> for everyone. If you would benefit from sliding scale fees, please contact me.</i></p>
 
 <figure>
   <img src="assets/images/unsplash-birth.jpg" />
