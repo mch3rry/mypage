@@ -29,8 +29,8 @@ My sliding-scale fees are based on trust – I do not ask for income verificatio
   </tr>
   <tr>
     <td>I can comfortably meet all my basic needs, have expendable income, and access to significant savings.</td>
-    <td>I may stress about meeting my basic needs, but still regularly meet them. I have some expendable income.</td>
-    <td>I frequently stress about meeting my basic needs, and don’t always meet them. I have no, or very little, expendable income.</td>
+    <td>I may stress about meeting my basic needs, but still regularly meet them. I have some expendable income and savings.</td>
+    <td>I frequently stress about meeting my basic needs, and don’t always meet them. I have no, or very little, expendable income and savings.</td>
   </tr>
   <tr>
     <td>My household income is more than the average in my area, or I do not need to work to meet my needs.</td>
