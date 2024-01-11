@@ -6,9 +6,9 @@ title: "Accessibility"
 
 Birthing people remember their births for their entire lives. Research shows that compassionate doula care decreases birth interventions, improves newborn outcomes, improves satisfaction with the birth experience, increases breastfeeding rates, and reduces postpartum anxiety and depression. These are incredibly important effects that can ripple through the family and wider community for years, and generations, to come.
 
-<p style="font-style: italic; font-size: 16px">I believe strongly that everyone who desires doula support deserves it. And, that doula support is an incredibly worthwhile investment in our community.</p>
+<p style="font-style: italic; font-size: 20px">I believe strongly that everyone who desires doula support deserves it. And, that doula support is an incredibly worthwhile investment in our community.</p>
 
-test2
+test20
 
 Women have been supporting each other during their births for millennia. In modern times the energy exchange comes in the form of financial compensation that I recognize is not always affordable to everyone.
 
