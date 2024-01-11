@@ -33,9 +33,9 @@ My sliding-scale fees are based on trust – I do not ask for income verificatio
     <td>I frequently stress about meeting my basic needs, and don’t always meet them. I have no, or very little, expendable income.</td>
   </tr>
   <tr>
-    <td>I am gainfully employed, or do not need to work to meet my needs.</td>
-    <td>I am employed.</td>
-    <td>I am unemployed or underemployed.</td>
+    <td>My household income is more than the average in my area, or I do not need to work to meet my needs.</td>
+    <td>My household income is less than the average in my area.</td>
+    <td>My household income is less than half of the average in my area.</td>
   </tr>
   <tr>
     <td>Paying for doula support would not qualify as a meaningful sacrifice or hardship.</td>
