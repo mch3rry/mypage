@@ -44,8 +44,6 @@ My sliding-scale fees are based on trust – I do not ask for income verificatio
   </tr>
   <tr>
     <td>I cannot comfortably afford doula support without hardship, but have financial support from my network for doula support.</td>
-    <td> </td>
-    <td> </td>
   </tr>
 </table>
 
