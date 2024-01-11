@@ -58,6 +58,7 @@ title: "Meet Danielle McEachern"
 * MotherWit Birth Doula Training
 * MotherWit Postpartum Doula Training
 * Holistic Doula Program, Paciific Rim College
+* Graduate Studies Neurobiology, UBC
 * BSc Neuroscience, McGill
 
 <br>
