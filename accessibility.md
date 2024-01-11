@@ -10,7 +10,7 @@ Birthing people remember their births for their entire lives. Research shows tha
 
 Women have been supporting each other during their births for millennia. In modern times the energy exchange comes in the form of financial compensation that I recognize is not always affordable to everyone.
 
-In an effort to improve accessibility to doula support, while also keeping my doula practice sustainable, I am available for one sliding-scale birth client per month and/or up to 20 hours of sliding-scale daytime postpartum care.
+In an effort to improve accessibility to doula support, while also keeping my doula practice sustainable, <b>I am available for one sliding-scale birth client per month and/or up to 20 hours of sliding-scale daytime postpartum care.</b>
 
 My scale is primarily based on the concept of hardship versus sacrifice. If you would have to budget for doula support, perhaps by cutting back on extras such as entertainment, eating out, or non-essential purchases, it qualifies as a sacrifice. If paying for doula support would impact your ability to meet your basic needs, it would be a hardship.
 
