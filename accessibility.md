@@ -8,6 +8,8 @@ Birthing people remember their births for their entire lives. Research shows tha
 
 <p style="font-size: 16px"><i>I believe strongly that everyone who desires doula support deserves it. And, that doula support is an incredibly worthwhile investment in our community.</i></p>
 
+test
+
 Women have been supporting each other during their births for millennia. In modern times the energy exchange comes in the form of financial compensation that I recognize is not always affordable to everyone.
 
 In an effort to improve accessibility to doula support, while also keeping my doula practice sustainable, I am available for one sliding-scale birth client per month and/or up to 20 hours of sliding-scale daytime postpartum care.
