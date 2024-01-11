@@ -14,7 +14,7 @@ In an effort to improve accessibility to doula support, while also keeping my do
 
 My scale is primarily based on the concept of hardship versus sacrifice. If you would have to budget for doula support, perhaps by cutting back on extras such as entertainment, eating out, or non-essential purchases, it qualifies as a sacrifice. If paying for doula support would impact your ability to meet your basic needs, it would be a hardship.
 
-My sliding-scale fees are based on trust – I do not ask for income verification. Please be mindful that if you request a sliding-scale fee when you can comfortably afford my full fee, you are limiting access to doula support for those who would truly benefit.
+My sliding-scale fees are based on trust – I do not ask for income verification. Please be mindful that if you request a sliding-scale fee when you can comfortably afford more, you may be limiting access to doula support for those who would truly benefit.
 
 <table>
   <tr>
