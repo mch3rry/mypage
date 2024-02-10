@@ -4,22 +4,17 @@ title: "Client Intake"
 ---
 <p> </p>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf_sZ3GOsITMoTa_lm0w99tZmXsire1-ndYxixmfYEltZ1vmA/viewform?embedded=true" width="640" height="1835" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-
-
-
 <h3>Contact Information</h3>
-<form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+<form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://submit-form.com/qZso0xB5W" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label>
+    <label for="full-name">Full Name*</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-    <label for="email-address">Email Address</label>
+    <label for="email-address">Email Address*</label>
     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required="">
-    <label for="street-address">Street Address</label>
+    <label for="street-address">Street Address*</label>
     <input type="text" name="street" id="street-address" placeholder="Street" required="">
     <fieldset class="locale">
-      <legend><b>Locale</b></legend>
+      <legend><b>Locale*</b></legend>
       <input type="text" name="city" placeholder="City" required="">
       <select name="province" required="">
         <option value="" selected="" disabled="">Province</option>
@@ -28,22 +23,22 @@ title: "Client Intake"
       </select>
       <input type="text" name="postal-code" placeholder="A1B 2C3" required="">
     </fieldset>
-    <label for="phone-client">Phone Number</label>
+    <label for="phone-client">Phone Number*</label>
     <input type="text" name="phone" id="phone-client" placeholder="123-456-7890" required="">
-    <label for="DOB">What is your date of birth?</label>
+    <label for="DOB">What is your date of birth?*</label>
     <input type="date" id="DOB" name="DOB">
     <label for="partner-name">Partner's Name</label>
-    <input type="text" name="partner-name" id="partner-name" placeholder="First and Last" required="">
+    <input type="text" name="partner-name" id="partner-name" placeholder="First and Last">
     <label for="partner-phone">Partner's Phone Number</label>
-    <input type="text" name="partner-phone" id="partner-phone" placeholder="123-456-7890" required="">
-    <label for="emergency-name">Emergency Contact's Name</label>
+    <input type="text" name="partner-phone" id="partner-phone" placeholder="123-456-7890">
+    <label for="emergency-name">Emergency Contact's Name*</label>
     <input type="text" name="emergency-name" id="emergency-name" placeholder="First and Last" required=""> 
-    <label for="emergency-phone">Emergency Contact's Phone Number</label>
+    <label for="emergency-phone">Emergency Contact's Phone Number*</label>
     <input type="text" name="emergency-phone" id="emergency-phone" placeholder="123-456-7890" required="">      
     <h3>Health Information</h3>
-    <label for="HCP">Healthcare Provider's Name</label>
+    <label for="HCP">Healthcare Provider's Name*</label>
     <input type="text" name="HCP" id="HCP" placeholder="First and Last" required="">                   
-    <label for="birthplace">Planned Place of Birth</label>
+    <label for="birthplace">Planned Place of Birth*</label>
     <input type="text" name="birthplace" id="birthplace" placeholder="Hospital, birth centre or home" required="">        
     <label for="HCP-other">Are you seeing any other care providers (massage therapist, pelvic floor physiotherapist, dietician, acupuncturist, naturopath, therapist, etc)? If so, please list.</label>
     <textarea rows="2" name="HCP-other" id="HCP-other" placeholder=""></textarea>     
@@ -56,10 +51,10 @@ title: "Client Intake"
     <label for="diseases">Do you have any sexually transmitted diseases, including Hepatitis or HIV?</label>
     <textarea rows="2" name="diseases" id="diseases" placeholder=""></textarea>       
     <h3>Pregnancy Information</h3>
-    <label for="EDD-period">What is your estimated due date, according to your last menstrual period?</label>
-    <input type="date" id="EDD-period" name="EDD-period">
-    <label for="EDD-US">What is your estimated due date, according to ultrasound?</label>
-    <input type="date" id="EDD-US" name="EDD-US">      
+    <label for="EDD-period">What is your estimated due date, according to your last menstrual period?*</label>
+    <input type="date" id="EDD-period" name="EDD-period" required="">
+    <label for="EDD-US">What is your estimated due date, according to ultrasound?*</label>
+    <input type="date" id="EDD-US" name="EDD-US" required="">      
     <label for="conception">Have you struggled at all with conceiving?</label>
     <textarea rows="2" name="conception" id="conception" placeholder=""></textarea>      
     <label for="pregnancy-feels">How are you feeling about your pregnancy?</label>
