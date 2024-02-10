@@ -4,7 +4,7 @@ title: "Client Intake"
 ---
 <p> </p>
 
-<h2>Contact Information</h2><hr>
+<h3>Contact Information</h3>
 <form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
@@ -35,7 +35,7 @@ title: "Client Intake"
     <input type="text" name="emergency-name" id="emergency-name" placeholder="First and Last" required=""> 
     <label for="emergency-phone">Emergency Contact's Phone Number</label>
     <input type="text" name="emergency-phone" id="emergency-phone" placeholder="123-456-7890" required="">      
-    <h2>Health Information</h2><hr>
+    <hr><h3>Health Information</h3>
     <label for="HCP">Healthcare Provider's Name</label>
     <input type="text" name="HCP" id="HCP" placeholder="First and Last" required="">       
     <label for="HCP">Healthcare Provider's Name</label>
@@ -52,7 +52,7 @@ title: "Client Intake"
     <textarea rows="2" name="meds" id="meds" placeholder=""></textarea>   
     <label for="diseases">Do you have any sexually transmitted diseases, including Hepatitis or HIV?</label>
     <textarea rows="2" name="diseases" id="diseases" placeholder=""></textarea>       
-    <h2>Pregnancy Information</h2><hr>
+    <hr><h3>Pregnancy Information</h3>
     <label for="EDD-period">What is your estimated due date, according to your last menstrual period?</label>
     <input type="date" id="EDD-period" name="EDD-period">
     <label for="EDD-US">What is your estimated due date, according to ultrasound?</label>
@@ -86,7 +86,9 @@ title: "Client Intake"
      <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission">
   </fieldset>
   <input type="submit" value="Submit">
-</form><style>/* reset */
+</form>
+
+<style>/* reset */
 #fs-frm input,
 #fs-frm select,
 #fs-frm textarea,
