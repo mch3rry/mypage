@@ -2,7 +2,9 @@
 layout: page
 title: "Client Intake"
 ---
-<p> </p>  
+<p> </p>
+
+<h2>Contact Information</h2><hr>
 <form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
@@ -12,7 +14,7 @@ title: "Client Intake"
     <label for="street-address">Street Address</label>
     <input type="text" name="street" id="street-address" placeholder="Street" required="">
     <fieldset class="locale">
-      <legend>Locale</legend>
+      <label>Locale</label>
       <input type="text" name="city" placeholder="City" required="">
       <select name="Province" required="">
         <option value="" selected="" disabled="">Province</option>
@@ -33,6 +35,7 @@ title: "Client Intake"
     <input type="text" name="emergency-name" id="emergency-name" placeholder="First and Last" required=""> 
     <label for="emergency-phone">Emergency Contact's Phone Number</label>
     <input type="text" name="emergency-phone" id="emergency-phone" placeholder="123-456-7890" required="">      
+    <h2>Health Information</h2><hr>
     <label for="HCP">Healthcare Provider's Name</label>
     <input type="text" name="HCP" id="HCP" placeholder="First and Last" required="">       
     <label for="HCP">Healthcare Provider's Name</label>
@@ -44,27 +47,12 @@ title: "Client Intake"
     <label for="health">Do you have any health concerns that could affect your pregnancy, birth, or postpartum recovery? If so, please describe.</label>
     <textarea rows="2" name="health" id="health" placeholder=""></textarea>      
     <label for="allergies">Please list any allergies or intolerances.</label>
-    <textarea rows="2" name="allergies" id="allergies" placeholder=""></textarea>       
-    <label for="allergies">Please list any allergies or intolerances.</label>
-    <textarea rows="2" name="allergies" id="allergies" placeholder=""></textarea>            
+    <textarea rows="2" name="allergies" id="allergies" placeholder=""></textarea>                 
     <label for="meds">Please list any medication and/or supplements that you take, and the reason you take them.</label>
-    <textarea rows="2" name="meds" id="meds" placeholder=""></textarea>
-    <label for="diseases">Do you have any sexually transmitted diseases, including Hepatitis or HIV?</label>
-    <textarea rows="2" name="diseases" id="diseases" placeholder=""></textarea>      
-    <label for="infections">Do you have any sexually transmitted infections, including Hepatitis or HIV?</label>
-    <textarea rows="2" name="infections" id="infections" placeholder=""></textarea>       
+    <textarea rows="2" name="meds" id="meds" placeholder=""></textarea>   
     <label for="diseases">Do you have any sexually transmitted diseases, including Hepatitis or HIV?</label>
     <textarea rows="2" name="diseases" id="diseases" placeholder=""></textarea>       
-    <label for="previous-preg">Have you been pregnant before?</label>
-    <textarea rows="1" name="previous-preg" id="previous-preg" placeholder=""></textarea>
-    <label for="children">How many children do you have?</label>
-    <textarea rows="1" name="children" id="children" placeholder=""></textarea>      
-    <label for="previous-birth">If you've given birth before, how did those labours go? Did you go into spontaneous labour? How long were the births? Were there any medical interventions? How do you feel about your past birth experience(s)?</label>
-    <textarea rows="2" name="previous-birth" id="previous-birth" placeholder=""></textarea> 
-    <label for="previous-feeding">If you've given birth before, how did you feed your baby? Is there anything you'd like to do differently?</label>
-    <textarea rows="2" name="previous-feeding" id="previous-feeding" placeholder=""></textarea>      
-    <label for="previous-ppmd">If you've given birth before, how was your postpartum experience? Do you have any history with postpartum mood disorders (depression, anxiety)?</label>
-    <textarea rows="2" name="previous-ppmd" id="previous-ppmd" placeholder=""></textarea>
+    <h2>Pregnancy Information</h2><hr>
     <label for="EDD-period">What is your estimated due date, according to your last menstrual period?</label>
     <input type="date" id="EDD-period" name="EDD-period">
     <label for="EDD-US">What is your estimated due date, according to ultrasound?</label>
@@ -76,7 +64,17 @@ title: "Client Intake"
     <label for="pregnancy-concerns">How has your pregnancy been treating you? Any complaints or concerns?</label>
     <textarea rows="2" name="pregnancy-concerns" id="pregnancy-concerns" placeholder=""></textarea>       
     <label for="pregnancy-complications">Do you have any pregnancy complications? If there anything that makes your pregnancy "high-risk"?</label>
-    <textarea rows="2" name="pregnancy-complications" id="pregnancy-complications" placeholder=""></textarea>      
+    <textarea rows="2" name="pregnancy-complications" id="pregnancy-complications" placeholder=""></textarea>
+    <label for="previous-preg">Have you been pregnant before?</label>
+    <textarea rows="1" name="previous-preg" id="previous-preg" placeholder=""></textarea>
+    <label for="children">How many children do you have?</label>
+    <textarea rows="1" name="children" id="children" placeholder=""></textarea>      
+    <label for="previous-birth">If you've given birth before, how did those labours go? Did you go into spontaneous labour? How long were the births? Were there any medical interventions? How do you feel about your past birth experience(s)?</label>
+    <textarea rows="2" name="previous-birth" id="previous-birth" placeholder=""></textarea> 
+    <label for="previous-feeding">If you've given birth before, how did you feed your baby? Is there anything you'd like to do differently?</label>
+    <textarea rows="2" name="previous-feeding" id="previous-feeding" placeholder=""></textarea>      
+    <label for="previous-ppmd">If you've given birth before, how was your postpartum experience? Do you have any history with postpartum mood disorders (depression, anxiety)?</label>
+    <textarea rows="2" name="previous-ppmd" id="previous-ppmd" placeholder=""></textarea>
     <label for="learning">How are you learning about pregnancy, birth and postpartum? Books, YouTube, Instagram, TikTok?</label>
     <textarea rows="2" name="learning" id="learning" placeholder=""></textarea> 
     <label for="classes">Do you plan on taking any childbirth education or breastfeeding classes? If so, which? Would you like any recommendations?</label>
