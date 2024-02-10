@@ -16,7 +16,7 @@ title: "Client Intake"
     <fieldset class="locale">
       <legend><b>Locale</b></legend>
       <input type="text" name="city" placeholder="City" required="">
-      <select name="Province" required="">
+      <select name="province" required="">
         <option value="" selected="" disabled="">Province</option>
       	<option value="ON">Ontario</option>
       	<option value="QC">Quebec</option>
@@ -35,7 +35,7 @@ title: "Client Intake"
     <input type="text" name="emergency-name" id="emergency-name" placeholder="First and Last" required=""> 
     <label for="emergency-phone">Emergency Contact's Phone Number</label>
     <input type="text" name="emergency-phone" id="emergency-phone" placeholder="123-456-7890" required="">      
-    <hr><h3>Health Information</h3>
+    <h3>Health Information</h3>
     <label for="HCP">Healthcare Provider's Name</label>
     <input type="text" name="HCP" id="HCP" placeholder="First and Last" required="">       
     <label for="HCP">Healthcare Provider's Name</label>
@@ -52,7 +52,7 @@ title: "Client Intake"
     <textarea rows="2" name="meds" id="meds" placeholder=""></textarea>   
     <label for="diseases">Do you have any sexually transmitted diseases, including Hepatitis or HIV?</label>
     <textarea rows="2" name="diseases" id="diseases" placeholder=""></textarea>       
-    <hr><h3>Pregnancy Information</h3>
+    <h3>Pregnancy Information</h3>
     <label for="EDD-period">What is your estimated due date, according to your last menstrual period?</label>
     <input type="date" id="EDD-period" name="EDD-period">
     <label for="EDD-US">What is your estimated due date, according to ultrasound?</label>
@@ -63,7 +63,7 @@ title: "Client Intake"
     <textarea rows="2" name="pregnancy-feels" id="pregnancy-feels" placeholder=""></textarea>      
     <label for="pregnancy-concerns">How has your pregnancy been treating you? Any complaints or concerns?</label>
     <textarea rows="2" name="pregnancy-concerns" id="pregnancy-concerns" placeholder=""></textarea>       
-    <label for="pregnancy-complications">Do you have any pregnancy complications? If there anything that makes your pregnancy "high-risk"?</label>
+    <label for="pregnancy-complications">Do you have any pregnancy complications? If there anything that makes your pregnancy "high risk"?</label>
     <textarea rows="2" name="pregnancy-complications" id="pregnancy-complications" placeholder=""></textarea>
     <label for="previous-preg">Have you been pregnant before?</label>
     <textarea rows="1" name="previous-preg" id="previous-preg" placeholder=""></textarea>
@@ -192,7 +192,7 @@ title: "Client Intake"
   width: 20%;
 }
 #fs-frm fieldset.locale input[name="city"],
-#fs-frm fieldset.locale select[name="state"] {
+#fs-frm fieldset.locale select[name="province"] {
   margin-right: 3%;
 }
 </style>
