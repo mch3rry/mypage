@@ -178,14 +178,14 @@ title: "Client Intake"
 
 /* address, locale */
 #fs-frm fieldset.locale input[name="city"],
-#fs-frm fieldset.locale select[name="state"],
+#fs-frm fieldset.locale select[name="province"],
 #fs-frm fieldset.locale input[name="postal-code"] {
   display: inline;
 }
 #fs-frm fieldset.locale input[name="city"] {
   width: 52%;
 }
-#fs-frm fieldset.locale select[name="state"],
+#fs-frm fieldset.locale select[name="province"],
 #fs-frm fieldset.locale input[name="postal-code"] {
   width: 20%;
 }
