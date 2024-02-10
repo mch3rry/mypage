@@ -37,9 +37,7 @@ title: "Client Intake"
     <input type="text" name="emergency-phone" id="emergency-phone" placeholder="123-456-7890" required="">      
     <h3>Health Information</h3>
     <label for="HCP">Healthcare Provider's Name</label>
-    <input type="text" name="HCP" id="HCP" placeholder="First and Last" required="">       
-    <label for="HCP">Healthcare Provider's Name</label>
-    <input type="text" name="HCP" id="HCP" placeholder="First and Last" required="">             
+    <input type="text" name="HCP" id="HCP" placeholder="First and Last" required="">                   
     <label for="birthplace">Planned Place of Birth</label>
     <input type="text" name="birthplace" id="birthplace" placeholder="Hospital, birth centre or home" required="">        
     <label for="HCP-other">Are you seeing any other care providers (massage therapist, pelvic floor physiotherapist, dietician, acupuncturist, naturopath, therapist, etc)? If so, please list.</label>
