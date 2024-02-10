@@ -10,7 +10,7 @@ title: "Client Intake"
     <label for="full-name">Full Name</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
     <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required="">
     <label for="street-address">Street Address</label>
     <input type="text" name="street" id="street-address" placeholder="Street" required="">
     <fieldset class="locale">
