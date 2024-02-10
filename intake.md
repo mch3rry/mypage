@@ -14,7 +14,7 @@ title: "Client Intake"
     <label for="street-address">Street Address</label>
     <input type="text" name="street" id="street-address" placeholder="Street" required="">
     <fieldset class="locale">
-      <label>Locale</label>
+      <legend><b>Locale</b></legend>
       <input type="text" name="city" placeholder="City" required="">
       <select name="Province" required="">
         <option value="" selected="" disabled="">Province</option>
