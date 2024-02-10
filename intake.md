@@ -73,7 +73,7 @@ title: "Client Intake"
     <textarea rows="2" name="previous-feeding" id="previous-feeding" placeholder=""></textarea>      
     <label for="previous-ppmd">If you've given birth before, how was your postpartum experience? Do you have any history with postpartum mood disorders (depression, anxiety)?</label>
     <textarea rows="2" name="previous-ppmd" id="previous-ppmd" placeholder=""></textarea>
-    <label for="learning">How are you learning about pregnancy, birth and postpartum? Books, YouTube, Instagram, TikTok?</label>
+    <label for="learning">How are you learning about pregnancy, birth and postpartum? Books, social media?</label>
     <textarea rows="2" name="learning" id="learning" placeholder=""></textarea> 
     <label for="classes">Do you plan on taking any childbirth education or breastfeeding classes? If so, which? Would you like any recommendations?</label>
     <textarea rows="2" name="classes" id="classes" placeholder=""></textarea>      
