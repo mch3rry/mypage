@@ -88,8 +88,6 @@ title: "Client Intake"
   <input type="submit" value="Submit">
 </form>
 
-<p>test1</p>
-
 <style>/* reset */
 #fs-frm input,
 #fs-frm select,
@@ -187,7 +185,7 @@ title: "Client Intake"
   display: inline;
 }
 #fs-frm fieldset.locale input[name="city"] {
-  width: 20%;
+  width: 52%;
 }
 #fs-frm fieldset.locale select[name="province"],
 #fs-frm fieldset.locale input[name="postal-code"] {
