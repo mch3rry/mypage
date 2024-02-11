@@ -6,6 +6,7 @@ title: "Client Intake"
 
 <h3>Contact Information</h3>
 <form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://submit-form.com/qZso0xB5W" method="post">
+  <input type="hidden" name="_redirect" value="https://birthscience.ca/thanks"/>  
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name*</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
