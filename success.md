@@ -7,5 +7,5 @@ title: "Intake Form Submitted"
 Thanks for completing the intake form!
 
 <figure>
-  <img src="assets/images/thanks.jpg" />
+  <img src="assets/images/unsplash-success.jpg" />
 </figure>
