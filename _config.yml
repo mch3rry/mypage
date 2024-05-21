@@ -6,8 +6,7 @@ logo: 'BScLogoWeb.svg'
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image:
-  greetings: "Welcome to Birth Science, where we are passionate about providing compassionate, evidence-based doula care and education to all types of families in and around Ottawa, Ontario.
-"
+  greetings: "From Science to Support: Your Empowered Birth Starts Here. Compassionate Doula Care, Informed by Evidence."
 favicon:
 baseurl:
 production_url: https://birthscience.ca/
