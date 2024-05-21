@@ -73,6 +73,7 @@ title: "Meet Danielle McEachern"
 
 <br>
 **Community Work**
+* Membership Coordinator, Ottawa Valley Doula Association (2024-present)
 * Board of directors, Doula Services Association of BC (2021-22)
 * Postpartum volunteer, Vancouver Coastal Health’s CUDDLE program (2019)
 * Big Sister, Big Sisters of the Lower Mainland (2014 - 2017)
