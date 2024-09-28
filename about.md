@@ -34,8 +34,6 @@ title: "Meet Danielle McEachern"
 
   <p>Danielle is a dedicated doula with a passion for providing holistic, evidence-based support to parents-to-be. With a deep respect for the natural physiology of birth, she believes in the innate wisdom of the body and baby to work together through the birthing process. Her approach emphasizes informed consent, making sure you are not only educated about your options but also empowered to make confident decisions at every step.</p>
 
-  <p>Danielle’s practice is rooted in creating a space where you feel fully supported, both emotionally and physically. She understands that childbirth is as much an emotional journey as it is a physical one. With her calm demeanor, compassionate care, and focus on personalized support, Danielle is committed to helping you feel safe, seen, and heard throughout pregnancy, birth, and into parenthood.</p>
-
   </div>
 
   <div class="column">
@@ -46,6 +44,8 @@ title: "Meet Danielle McEachern"
   </div>
   </div>
 </div>
+
+ <p>Danielle’s practice is rooted in creating a space where you feel fully supported, both emotionally and physically. She understands that childbirth is as much an emotional journey as it is a physical one. With her calm demeanor, compassionate care, and focus on personalized support, Danielle is committed to helping you feel safe, seen, and heard throughout pregnancy, birth, and into parenthood.</p>
 
 <p>What sets Danielle apart is her unique combination of heartfelt care and scientific insight. With a background in neurobiology, she brings a curious, thoughtful approach to her practice. This foundation allows her to stay current with evidence-based practices while appreciating the natural and cultural aspects of childbirth. Whether you are preparing for a natural birth or exploring other options, Danielle provides the guidance and emotional support to ensure your experience feels right for you and your growing family.</p>
 
