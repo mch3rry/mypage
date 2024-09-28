@@ -78,8 +78,6 @@ title: "Meet Danielle McEachern"
 * Postpartum volunteer, Vancouver Coastal Health’s CUDDLE program (2019)
 * Big Sister, Big Sisters of the Lower Mainland (2014 - 2017)
 
-<p><i>P.S. I also built this website myself!</i></p>
-
 <figure>
   <img src="assets/images/bady-abbas-uZoR8U2hyiw-unsplash.jpg" />
 </figure>
