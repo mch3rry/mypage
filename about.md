@@ -49,7 +49,7 @@ title: "Meet Danielle McEachern"
 
 <p>What sets Danielle apart is her unique combination of heartfelt care and scientific insight. With a background in neurobiology, she brings a curious, thoughtful approach to her practice. This foundation allows her to stay current with evidence-based practices while appreciating the natural and cultural aspects of childbirth. Whether you are preparing for a natural birth or exploring other options, Danielle provides the guidance and emotional support to ensure your experience feels right for you and your growing family.</p>
 
-<p>Danielle believes every birth journey is unique and personal. Her mission is to be a trusted ally, offering balanced care that honors your family’s wishes while ensuring you have the tools and knowledge to feel in control of your birth experience.</p>
+<p>Danielle believes every birth journey is unique and personal. Her mission is to be a trusted ally, offering balanced care that honours your family’s wishes while ensuring you have the tools and knowledge to feel in control of your birth experience.</p>
 
 <p>Let Danielle guide and support you through this remarkable life event—so you can focus on what matters most: welcoming your baby with confidence, love, and joy.</p>
 
