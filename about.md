@@ -32,9 +32,9 @@ title: "Meet Danielle McEachern"
 <div class="row">
   <div class="column">
 
-  <p>My doula practice blends the art of holding space and the science of our awe-inspiring bodies.</p>
+  <p>Danielle is a dedicated doula with a passion for providing holistic, evidence-based support to parents-to-be. With a deep respect for the natural physiology of birth, she believes in the innate wisdom of the body and baby to work together through the birthing process. Her approach emphasizes informed consent, making sure you are not only educated about your options but also empowered to make confident decisions at every step.</p>
 
-  <p>I am passionate about providing doula care that honours you, your family, and your birth. Everyone deserves to feel safe, supported, and empowered during pregnancy, childbirth, and onwards into parenthood.</p>
+  <p>Danielle’s practice is rooted in creating a space where you feel fully supported, both emotionally and physically. She understands that childbirth is as much an emotional journey as it is a physical one. With her calm demeanor, compassionate care, and focus on personalized support, Danielle is committed to helping you feel safe, seen, and heard throughout pregnancy, birth, and into parenthood.</p>
 
   </div>
 
@@ -47,11 +47,11 @@ title: "Meet Danielle McEachern"
   </div>
 </div>
 
+<p>What sets Danielle apart is her unique combination of heartfelt care and scientific insight. With a background in neurobiology, she brings a curious, thoughtful approach to her practice. This foundation allows her to stay current with evidence-based practices while appreciating the natural and cultural aspects of childbirth. Whether you are preparing for a natural birth or exploring other options, Danielle provides the guidance and emotional support to ensure your experience feels right for you and your growing family.</p>
 
+<p>Danielle believes every birth journey is unique and personal. Her mission is to be a trusted ally, offering balanced care that honors your family’s wishes while ensuring you have the tools and knowledge to feel in control of your birth experience.</p>
 
-<p>I believe in the physiology of birth - that you, your body, and your baby instinctively know how to birth - and that you are the expert on your care. My goal is to help you feel educated about childbirth and all of your options, and confident and supported in your choices. I aim to create a safe and comfortable space for you to thrive in your birth and journey into new parenthood.</p>
-
-<p>Before I trained as a doula, I studied neurobiology for ten years. From my time as a scientist I bring curiosity, critical thinking, and a love of research rabbit holes. I am fascinated by all aspects of birth, from the biological mysteries to the diversity of global birth practices. I strive to understand the history that shapes modern birth culture, and to be informed on the best evidence-based practices in perinatal care.</p>
+<p>Let Danielle guide and support you through this remarkable life event—so you can focus on what matters most: welcoming your baby with confidence, love, and joy.</p>
 
 <br>
 **Trainings & Education**
