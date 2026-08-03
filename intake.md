@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Client Intake"
+title: "Birth Client Intake"
 ---
 <p> </p>
 
