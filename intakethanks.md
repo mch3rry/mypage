@@ -7,5 +7,5 @@ title: "Thanks"
 Thank you for completing our intake form!
 
 <figure>
-  <img src="assets/images/thanks.jpg" />
+  <img src="assets/images/unsplash-thanksintake.jpg" />
 </figure>
