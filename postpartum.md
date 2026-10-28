@@ -18,8 +18,8 @@ title: "Postpartum Support"
 
 <p><b>Fees:</b>
 
-<br>Daytime: $35/hour + HST (8AM-8PM, 3 hour minimum)
-<br>Overnight: $35/hour + HST (10PM-6PM)
+<br>Daytime: $37/hour + HST (8AM-8PM, 3 hour minimum)
+<br>Overnight: $37/hour + HST (10PM-6PM)
 
 <p><i>I am dedicated to <a href="https://birthscience.ca/accessibility">accessible doula care</a> for everyone. If you would benefit from sliding scale fees, please contact me.</i></p>
 
